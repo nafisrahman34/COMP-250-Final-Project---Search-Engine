@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <webpage name="siteA">
+    <link name="siteC" />
+    <link name="siteB" />
+        <content value="Some body once told me the world was gonna roll me, I ain't the sharpest tool in the shed, she was looking kind of dumb with her finger and her thumb in the shape, of an L on her forehead"/>
+    </webpage>
+
+    <webpage name="siteC">
+        <link name="siteD"/>
+        <content value="Well the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
+So much to do, so much to see
+So what's wrong with taking the back streets?
+You'll never know if you don't go
+You'll never shine if you don't glow"/>
+    </webpage>
+
+    <webpage name="siteB">
+        <link name="siteA"/>
+        <content value="Hey now, you're an all-star, get your game on, go play
+Hey now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold"/>
+    </webpage>
+
+    <webpage name="siteD">
+        <link name="siteA"/>
+        <link name="siteB"/>
+        <content value="It's a cool place and they say it gets colder
+You're bundled up now, wait 'til you get older
+But the meteor men beg to differ
+Judging by the hole in the satellite picture
+The ice we skate is getting pretty thin
+The water's getting warm so you might as well swim
+My world's on fire, how about yours?
+That's the way I like it and I'll never get bored"/>
+    </webpage>
+
+    <webpage name="siteE">
+        <link name="siteB"/>
+        <link name="siteD"/>
+        <content value="Hey now, you're an all-star, get your game on, go play
+Hey now, you're a rock star, get the show on, get paid
+All that glitters is gold
+Only shooting stars break the mold"/>
+    </webpage>
+
+    <webpage name="siteF">
+        <content value="Hey now, you're an all-star, get your game on, go play
+Hey now, you're a rock star, get the show, on get paid
+And all that glitters is gold
+Only shooting stars"/>
+    </webpage>
+
+    <webpage name="siteG">
+        <link name="siteH"/>
+        <content value="Somebody once asked could I spare some change for gas?
+I need to get myself away from this place
+I said, Yup what a concept
+I could use a little fuel myself
+And we could all use a little change"/>
+    </webpage>
+
+    <webpage name="siteH">
+        <link name="siteJ"/>
+        <content value="Well, the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
+So much to do, so much to see
+So what's wrong with taking the back streets?
+You'll never know if you don't go (go!)
+You'll never shine if you don't glow"/>
+    </webpage>
+
+    <webpage name="siteJ">
+        <link name="siteG"/>
+        <content value="Hey now, you're an all-star, get your game on, go play
+Hey now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold
+And all that glitters is gold
+Only shooting stars break the mold"/>
+    </webpage>
+
+    <webpage name="siteI">
+        <link name="siteK"/>
+        <content value="Hi my name is Ebony Dark’ness Dementia Raven Way and I have long ebony black hair (that’s how I got my name) with purple streaks and red tips that reaches my mid-back and icy blue eyes like limpid tears and a lot of people tell me I look like Amy Lee (AN: if u don’t know who she is get da hell out of here!). [[I’m not related to Gerard Way but I wish I was because he’s a major fucking hottie. I’m a vampire but my teeth are straight and white. I have pale white skin. I’m also a witch, and I go to a magic school called Hogwarts in England where I’m in the seventh year (I’m seventeen). I’m a goth (in case you couldn’t tell) and I wear mostly black. I love Hot Topic and I buy all my clothes from there. For example today I was wearing a black corset with matching lace around it and a black leather miniskirt, pink fishnets and black combat boots. I was wearing black lipstick, white foundation, black eyeliner and red eye shadow. I was walking outside Hogwarts. It was snowing and raining so there was no sun, which I was very happy about. A lot of preps stared at me. I put up my middle finger at them.
+
+“Hey Ebony!” shouted a voice. I looked up. It was…. Draco Malfoy!
+
+“What’s up Draco?” I asked.
+
+“Nothing.” he said shyly.
+
+But then, I heard my friends call me and I had to go away."/>
+    </webpage>
+
+    <webpage name="siteK">
+        <link name="siteL"/>
+        <content value="What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little clever comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo."/>
+    </webpage>
+
+    <webpage name="siteL">
+        <content value="I really just want my finals to be done with, if you're actually checking the content of these webpages, I'm sorry"/>
+    </webpage>
+</test>
